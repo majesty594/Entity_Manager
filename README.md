@@ -7,8 +7,8 @@
 # Entity Manager
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. [majesty594](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [vishnu053](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [majesty594](https://github.com/majesty594)
+2. [vishnu053](https://github.com/Vishnu053)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
