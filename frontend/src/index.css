@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #ffffffa8;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.modal.fade.show {
+  backdrop-filter: blur(8px);
+}
+
+.resize-none{
+  resize: none;
+}
+html {
+  background-image: url(https://source.unsplash.com/random/), linear-gradient(to bottom, black, #2f2f2f0a);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#root {
+  backdrop-filter: blur(8px);
+}
+
+.rounded-lg.p-3.card-header.h-100 {
+  backdrop-filter: blur(18px);
+}
+
+.list-group-item {
+  background-color: #ffffffa1;
+}
+
+.list-group-flush {
+  border-radius: 10px;
+  row-gap: 3px;
+}
+
+.nav-tabs {
+  border-bottom: 1px solid #dee2e600;
+  margin-bottom: 10px;
+}
+
+.nav-tabs .nav-link.active {
+  background-color: #fff1bad6;
+  border-color: #fff1bad6;
+  border-radius: 30px;
+}
+
+.btn-yellow {
+  background-color: #fff1bad6;
+  border-color: #fff1bad6;
+}
+
+.btn-plus{
+  height: 50px;
+  width: 50px;
+  font-size: 2em;
+  line-height: 0.9;
+  color: #a48400;
+  font-weight: bold;
+  padding-bottom: 8px;
+}
+
+.nav-tabs .nav-link{
+  transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+.nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
+  background-color: #fff0;
+  border-color: #fff1bad6;
+  border-radius: 30px;
+}
